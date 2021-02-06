@@ -31,5 +31,6 @@ public class MyApplication extends AbsApplication {
     protected void appInit() {
         super.appInit();
         registerApplicationInit(CartApplication.class);
+
     }
 }
