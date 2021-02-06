@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.geespace.module_cart">
+
+    <application>
+
+        <activity android:name=".CartActivity"/>
+    </application>
+
+</manifest>

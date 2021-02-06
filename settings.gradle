@@ -1,0 +1,10 @@
+include ':export_cart'//include ':export_cart'
+include ':module_product'
+include ':module_my'
+include ':module_home'
+include ':module_find'
+include ':module_common'
+include ':module_category'
+include ':module_cart'
+include ':app'
+rootProject.name = "ComponentLearning"
